@@ -1,0 +1,30 @@
+## What does this PR do?
+<!-- Clearly explain what you changed and why. Avoid "fixed stuff" or "updated UI" -->
+
+
+## Type of change
+- [ ] `feat` — New feature
+- [ ] `fix` — Bug fix
+- [ ] `chore` — Config / cleanup / dependencies
+- [ ] `docs` — Documentation only
+- [ ] `refactor` — Code restructure, no behaviour change
+
+## What files were changed and why?
+| File | What changed |
+|------|-------------|
+|      |             |
+|      |             |
+
+## How to test?
+1. 
+2. 
+3. 
+
+## Screenshots (UI changes only)
+<!-- Paste before/after screenshots here. Delete this section if no visual changes -->
+
+## Checklist
+- [ ] Tested locally
+- [ ] Did NOT commit directly to `main`
+- [ ] Branch follows convention (`feature/` or `fix/`)
+- [ ] Commit message follows format (`feat:`, `fix:`, etc.)
